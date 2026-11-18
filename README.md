@@ -1,4 +1,4 @@
-# Classly (working name)
+# Classly
 
 An iPhone app for parents. Each morning it gathers each kid's PowerSchool grades and attendance, and the school calendar. Classroom homework can also be imported on demand from Safari. **All data and logins stay on the phone.** There's no backend.
 
